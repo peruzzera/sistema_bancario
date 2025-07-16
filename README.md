@@ -1,8 +1,7 @@
 
 # Sistema Bancário Simples em Python 🏦
 
-Este projeto é uma simulação de um sistema bancário simples feito em Python, com operações básicas como **depósito**, **saque** e **emissão de extrato**. Ideal para iniciantes que estão aprendendo sobre estruturas de repetição, condicionais, entrada de dados e lógica de programação.
-
+Este projeto é uma simulação de um sistema bancário simples feito em Python, com operações básicas como **depósito**, **saque** e **emissão de extrato**.
 ## 💡 Funcionalidades
 
 - 📥 **Depósito**: Permite adicionar dinheiro ao saldo.
@@ -40,18 +39,3 @@ python banco.py
 ```
 
 Digite a opção desejada e siga as instruções para realizar as operações bancárias.
-
-## 📚 Conceitos Praticados
-
-- Laços de repetição (`while`)
-- Condicionais (`if`, `elif`, `else`)
-- Manipulação de strings
-- Interação com o usuário via `input`
-- Operações aritméticas
-
-## 🛠️ Melhorias Futuras (Sugestões)
-
-- Armazenar dados em arquivos (persistência).
-- Utilizar funções para modularizar o código.
-- Implementar autenticação de usuário.
-- Interface gráfica (GUI) com Tkinter ou Web com Flask.
